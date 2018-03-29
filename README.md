@@ -469,7 +469,7 @@ An updated and curated list of selected readings to illustrate High Scalability,
 * [The Precise Meaning of I/O Wait Time in Linux](http://veithen.github.io/2013/11/18/iowait-linux.html)
 
 ## Talks
-* [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
+* ~~[Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)~~
 * [Building Real Time Infrastructure at Facebook - Jeff Barber and Shie Erlich, Software Engineer at Facebook](https://www.usenix.org/conference/srecon17americas/program/presentation/erlich)
 * [Building Reliable Social Infrastructure for Google - Marc Alvidrez, Senior Manager at Google](https://www.usenix.org/conference/srecon16/program/presentation/alvidrez)
 * [Site Reliability Engineering at Dropbox - Tammy Butow, Site Reliability Engineering Manager at Dropbox](https://www.youtube.com/watch?v=ggizCjUCCqE)
